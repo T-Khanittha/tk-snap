@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tk-snap/static/css/main.073c9b0a.css",
-    "main.js": "/tk-snap/static/js/main.94a9bdcd.js",
+    "main.js": "/tk-snap/static/js/main.a49bb0b7.js",
     "static/js/787.164996c8.chunk.js": "/tk-snap/static/js/787.164996c8.chunk.js",
     "static/media/logo.svg": "/tk-snap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tk-snap/index.html",
     "main.073c9b0a.css.map": "/tk-snap/static/css/main.073c9b0a.css.map",
-    "main.94a9bdcd.js.map": "/tk-snap/static/js/main.94a9bdcd.js.map",
+    "main.a49bb0b7.js.map": "/tk-snap/static/js/main.a49bb0b7.js.map",
     "787.164996c8.chunk.js.map": "/tk-snap/static/js/787.164996c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.94a9bdcd.js"
+    "static/js/main.a49bb0b7.js"
   ]
 }
